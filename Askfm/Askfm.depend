@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631070624 source:/media/gyoussef55/5f1f4881-4cfd-4a1e-a7ec-11f7a37a07be/you/codeforces/Askfm/main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<fstream>
+	<sstream>
+
